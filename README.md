@@ -7,11 +7,9 @@ Progression (chapter)
 Done:
 
 In Progress:
-4
+1, 2, 3, 4, 5, 6
 
 Todo:
-5
-6
 7
 9
 
